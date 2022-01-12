@@ -1,0 +1,37 @@
+# logs
+*.log
+*.txt
+
+# scripts
+*.sh
+
+# settings / secrets
+config*.ts
+settings.json
+notes
+*secret*.*
+tags
+commit_msg
+
+# node
+node_modules
+.npm
+
+# dotenv files
+.env
+.env.*
+
+# build directories
+prod
+build
+built
+dist
+out*
+tmp
+
+# git
+.git
+
+# backup directories
+bak
+backup*
