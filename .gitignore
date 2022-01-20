@@ -12,10 +12,12 @@ notes
 *secret*.*
 tags
 commit_msg
+todo
 
 # node
 node_modules
 .npm
+package-lock.json
 
 # dotenv files
 .env
